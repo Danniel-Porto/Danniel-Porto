@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Danniel Porto</h1>
-<h3 align="center">A passionate backend student from Brazil</h3>
+<h1 align="center">Hi 👋, I'm Danniel Porto.</h1>
+<h3 align="center">A passionate backend student from Brazil.</h3>
+
+- 🔭 I’m currently working on **Oceano and Boreal, as well as participating on the CyberSec's Blue Team.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
