@@ -13,7 +13,7 @@
 
 - 📫 You can reach me at **danniel.porto@gmail.com**
 
-- ⚡ Fun fact **I believe that the world would be a better place if we commented less and refactored more... or maybe not.**
+- ⚡ Fun fact: **I believe that the world would be a better place if we commented less and refactored more... or maybe not.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
