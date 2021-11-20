@@ -1,7 +1,19 @@
 <h1 align="center">Hi 👋, I'm Danniel Porto.</h1>
 <h3 align="center">A passionate backend student from Brazil.</h3>
 
-- 🔭 I’m currently working on **Oceano and Boreal, as well as participating on the CyberSec's Blue Team.**
+- 🔭 I’m currently working on **Oceano, a sea polution detection A.I. for research porpuses.**
+
+- 🌱 I’m currently learning **TensorFlow and Python.**
+
+- 👯 I'm also working with a few co-workers at **Boreal, a massive multiplayer indie role-playing game.**
+
+- 🤝 I'm a researcher at **CyberSec, as part of the Blue Team.**
+
+- 💬 Ask me about **Unity.**
+
+- 📫 You can reach me at **danniel.porto@gmail.com**
+
+- ⚡ Fun fact **I believe that the world would be a better place if we commented less and refactored more... or maybe not.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
