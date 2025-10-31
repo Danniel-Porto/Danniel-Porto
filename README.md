@@ -26,7 +26,6 @@ Yet… I can’t stop building it.
 <p align="left">
 <a href="mailto:danniel.porto@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/dannielporto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danniel porto" height="30" width="40" /></a>
-<a href="https://twitter.com/uspmax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="uspmax" height="30" width="40" /></a>
 </p>
 
 ---
