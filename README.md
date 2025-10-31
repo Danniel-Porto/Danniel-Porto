@@ -55,4 +55,4 @@ Yet… I can’t stop building it.
 
 ---
 
-<h4 align="center">Creating worlds, one line of code and one riff at a time.</h4>
+<h4 align="center">I've been creating worlds. One small step at a time.</h4>
