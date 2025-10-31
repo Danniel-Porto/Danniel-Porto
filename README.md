@@ -5,17 +5,19 @@
 
 ### 👨‍💻 About Me
 
-- 💼 Currently working as a **Fullstack Developer at Edge (Alagoas Innovation Center)**.  
-- 🧠 My main expertise is in **C#** and **Java**, but I also work daily with **PHP** and **Angular**.  
-- 🎮 I’ve been developing a commercial **racing game in Unity** for over **3 years** — it’s called **Ignition Point**, my proudest creation.  
-- 🎸 Music is my other world — I’m a **guitarist, composer**, and currently building a **multitenant booking system for music studios** using **Node.js** + **NestJS**.  
-- 🏛️ I also spent **2 years at Detran**, maintaining and evolving legacy systems built in **Natural (Software AG)** and **mainframe** tech.  
+💼 Currently working as a **Fullstack Developer at Edge (Alagoas Innovation Center)**  
+🧠 Main expertise in **C#** and **Java**, also working daily with **PHP** and **Angular**  
+🎮 Developing a commercial **racing game in Unity** for over **3 years** — called **Ignition Point**, my proudest creation  
+🎸 Musician, guitarist, and composer. Currently building a **multitenant booking system for music studios** using **Node.js** and **NestJS**  
+🏛️ Worked **2 years at Detran**, maintaining and evolving legacy systems built in **Natural (Software AG)** and **mainframe** technologies  
+
+> “Sometimes you gotta run before you can walk.” — *Tony Stark*
 
 ---
 
 ### ⚡ Fun Fact
-> I genuinely believe the world would be a better place without tech.  
-> Yet… I can’t stop building it.
+I genuinely believe the world would be a better place without tech.  
+Yet… I can’t stop building it.
 
 ---
 
@@ -54,4 +56,4 @@
 
 ---
 
-<h4 align="center">"Creating worlds, one line of code and one riff at a time."</h4>
+<h4 align="center">Creating worlds, one line of code and one riff at a time.</h4>
