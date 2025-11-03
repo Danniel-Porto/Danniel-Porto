@@ -1,5 +1,5 @@
 <h1 align="center">Danniel Porto</h1>
-<h3 align="center">Fullstack Developer | Game Dev | Musician</h3>
+<h3 align="center">Software Engineer</h3>
 
 ---
 
