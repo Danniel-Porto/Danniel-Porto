@@ -49,11 +49,4 @@ Yet… I can’t stop building it.
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danniel-porto&show_icons=true&locale=en&layout=compact" alt="danniel-porto" />
-</p>
-
----
-
 <h4 align="center">I've been creating worlds. One small step at a time.</h4>
