@@ -6,6 +6,7 @@
 ### 👨‍💻 About Me
 
 🎮 Creator of [**Ignition Point**](https://ignitionpoint.net)
+
 💼 Currently working as a **Fullstack Developer at Edge (Alagoas Innovation Center)**  
 🧠 Main expertise in **C#** and **Java**, also working daily with **PHP** and **Angular**  
 
