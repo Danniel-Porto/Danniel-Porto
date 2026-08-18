@@ -1,14 +1,13 @@
 <h1 align="center">Danniel Porto</h1>
 <h3 align="center">Software Engineer</h3>
-<h3 align="center">Creator of [**Ignition Point**](https://ignitionpoint.net)</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
+🎮 Creator of [**Ignition Point**](https://ignitionpoint.net)
 💼 Currently working as a **Fullstack Developer at Edge (Alagoas Innovation Center)**  
 🧠 Main expertise in **C#** and **Java**, also working daily with **PHP** and **Angular**  
-🎮 Developing a commercial **racing game in Unity** for over **3 years** called [**Ignition Point**](https://ignitionpoint.net), my proudest creation
 
 🎸 Musician, guitarist, and composer. Currently building a **multitenant booking system for music studios** using **Node.js** and **NestJS**  
 🏛️ Worked **2 years at Detran**, maintaining and evolving legacy systems built in **Natural (Software AG)** and **mainframe** technologies  
